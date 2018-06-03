@@ -1,2 +1,2 @@
 # BubblesDemo
-A React demo viewable here: https://codepen.io/kierah/full/qxLvpp/
+A React demo viewable here: https://codepen.io/kierah/pen/jzEjwO
